@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "outDir": "./built",
+    "allowJs": true,
+    "target": "es6",
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node"
+  },
+  "include": ["./src/**/*",
+    "types"]
+}
